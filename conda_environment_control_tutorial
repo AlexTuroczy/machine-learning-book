@@ -1,0 +1,10 @@
+Create environment from environment.yml file
+>> mamba env create -f environment.yml
+
+
+Activate environment
+>> mamba activate machine-learning-book
+
+
+List active environments
+>> mamba env list
